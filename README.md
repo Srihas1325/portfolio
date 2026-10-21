@@ -1,16 +1,43 @@
-# Manyam Anjan Srihas — Portfolio
+# Manyam Anjan Srihas
 
-A responsive, single-page portfolio website built with HTML, CSS, and JavaScript.
+Aspiring AI and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering at Gayatri Vidya Parishad College of Engineering.
 
-## Run locally
-Open `index.html` in a browser.
+## About Me
 
-## Deploy to GitHub and Vercel
-1. Create a new GitHub repository (for example, `srihas-portfolio`).
-2. Upload `index.html` to the repository root and commit the change.
-3. In Vercel, choose **Add New → Project** and import the GitHub repository.
-4. For a plain static HTML site, leave the framework preset as **Other** (or no framework), leave the build command empty, and use `.` as the output directory if Vercel asks for one.
-5. Click **Deploy**. Vercel will provide a public URL.
-6. Later, commit changes to GitHub; Vercel can automatically redeploy the site.
+I enjoy building practical applications across AI, knowledge graphs, and full-stack web development. My interests include Python, retrieval-augmented generation (RAG), graph-based knowledge systems, and modern web technologies.
 
-No build command or package installation is required.
+## Skills
+
+- **Languages:** Python, C/C++ (basic), SQL, HTML, CSS, JavaScript
+- **Web Development:** React.js, Node.js, Axios
+- **Databases:** MongoDB, MySQL, Neo4j
+- **AI & Tools:** RAG, Knowledge Graphs, Groq API, Llama, Streamlit, PyMuPDF
+- **Tools:** Git, GitHub, Firebase
+
+## Featured Projects
+
+- **AI-Based Document Analysis System** — A document analysis application built with Python, Streamlit, Groq API, Llama 3.3, and PyMuPDF.
+- **GraphRAG Enterprise Knowledge Assistant** — A knowledge assistant using Neo4j knowledge graphs and Llama.
+- **Blog Platform** — A full-stack blogging application with React, Node.js, MongoDB, and Firebase Authentication.
+
+## Experience
+
+**Generative AI Intern — CloudKarya**  
+June 2025 – July 2025
+
+Worked on AI-powered document analysis prototypes and explored LLM integration using the Groq API.
+
+## Education
+
+**B.Tech, Computer Science and Engineering**  
+Gayatri Vidya Parishad College of Engineering | 2023–2027
+
+## Contact
+
+- **Email:** srihasmanyam25@gmail.com
+- **LinkedIn:** [Manyam Anjan Srihas](https://www.linkedin.com/in/srihas-manyam-146954318/)
+- **GitHub:** [Srihas1325](https://github.com/Srihas1325)
+
+---
+
+*Thanks for visiting my profile!*
