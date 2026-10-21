@@ -1,14 +1,10 @@
 # Manyam Anjan Srihas
 
-Aspiring AI and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering at Gayatri Vidya Parishad College of Engineering.
-
-## About Me
-
-I enjoy building practical applications across AI, knowledge graphs, and full-stack web development. My interests include Python, retrieval-augmented generation (RAG), graph-based knowledge systems, and modern web technologies.
+Aspiring AI and Full-Stack Developer pursuing a B.Tech in Computer Science and Engineering at Gayatri Vidya Parishad College of Engineering. I enjoy building practical applications across AI, knowledge graphs, and full-stack web development, with interests in Python, Retrieval-Augmented Generation (RAG), and modern web technologies.
 
 ## Skills
 
-- **Languages:** Python, C/C++ (basic), SQL, HTML, CSS, JavaScript
+- **Languages:** Python, C/C++ (Basic), SQL, HTML, CSS, JavaScript
 - **Web Development:** React.js, Node.js, Axios
 - **Databases:** MongoDB, MySQL, Neo4j
 - **AI & Tools:** RAG, Knowledge Graphs, Groq API, Llama, Streamlit, PyMuPDF
@@ -16,20 +12,20 @@ I enjoy building practical applications across AI, knowledge graphs, and full-st
 
 ## Featured Projects
 
-- **AI-Based Document Analysis System** — A document analysis application built with Python, Streamlit, Groq API, Llama 3.3, and PyMuPDF.
-- **GraphRAG Enterprise Knowledge Assistant** — A knowledge assistant using Neo4j knowledge graphs and Llama.
-- **Blog Platform** — A full-stack blogging application with React, Node.js, MongoDB, and Firebase Authentication.
+- **AI-Based Document Analysis System** — Built a document analysis application using Python, Streamlit, Groq API, Llama 3.3, and PyMuPDF.
+- **GraphRAG Enterprise Knowledge Assistant** — Developed a knowledge assistant using Neo4j knowledge graphs and Llama.
+- **Blog Platform** — Built a full-stack blogging application using React.js, Node.js, MongoDB, and Firebase Authentication.
 
 ## Experience
 
 **Generative AI Intern — CloudKarya**  
-June 2025 – July 2025
+*June 2025 – July 2025*
 
 Worked on AI-powered document analysis prototypes and explored LLM integration using the Groq API.
 
 ## Education
 
-**B.Tech, Computer Science and Engineering**  
+**B.Tech in Computer Science and Engineering**  
 Gayatri Vidya Parishad College of Engineering | 2023–2027
 
 ## Contact
